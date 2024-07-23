@@ -1,3 +1,7 @@
+# A SysML v2 'Use Case Usage Example' using textual sysml v2 notation
+
+'''
+
 package 'Use Case Usage Example' {
 	
 	import 'Use Case Definition Example'::*;
@@ -35,3 +39,5 @@ package 'Use Case Usage Example' {
 		actor 'fuel station' : 'Fuel Station';
 	}
 }
+
+'''

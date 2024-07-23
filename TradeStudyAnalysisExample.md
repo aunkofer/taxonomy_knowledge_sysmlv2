@@ -1,3 +1,7 @@
+# A SysML v2 'Trade Study Analysis Example' using textual sysml v2 notation
+
+'''
+
 package 'Trade Study Analysis Example' {
 	import ScalarValues::Real;
 	import TradeStudies::*;
@@ -41,3 +45,5 @@ package 'Trade Study Analysis Example' {
 	}
 	
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Transition Actions' Example using textual sysml v2 notation
+
+'''
+
 package 'Transition Actions' {
 	
 	attribute def VehicleStartSignal;
@@ -42,3 +46,5 @@ package 'Transition Actions' {
 	}
 	
 }
+
+'''

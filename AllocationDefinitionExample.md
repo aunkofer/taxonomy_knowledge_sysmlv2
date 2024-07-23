@@ -1,3 +1,7 @@
+# A SysML v2 'Allocation Definition Example' using textual sysml v2 notation
+
+'''
+
 package 'Allocation Definition Example' {
 	package LogicalModel {
 		action def ProvidePower;
@@ -36,3 +40,5 @@ package 'Allocation Definition Example' {
 		allocation torqueGenAlloc : LogicalToPhysical allocate torqueGenerator to powerTrain;
 	}	
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'For Loop Example' using textual sysml v2 notation
+
+'''
+
 package 'For Loop Example' {
 	import SequenceFunctions::*;
 	
@@ -39,3 +43,5 @@ package 'For Loop Example' {
 	}
 	
 }
+
+'''

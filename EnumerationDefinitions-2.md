@@ -1,3 +1,7 @@
+# A SysML v2 'Enumeration Definitions' using textual sysml v2 notation
+
+'''
+
 package 'Enumeration Definitions-2' {
 	import ScalarValues::*;
 	import 'Enumeration Definitions-1'::*;
@@ -30,3 +34,5 @@ package 'Enumeration Definitions-2' {
 		F = 0.0;
 	}
 }
+
+'''

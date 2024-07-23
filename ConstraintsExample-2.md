@@ -1,3 +1,7 @@
+# A SysML v2 'Constraints' Example using textual sysml v2 notation
+
+'''
+
 package 'Constraints Example-2' {
 	import ISQ::*;
 	import SI::*;
@@ -30,3 +34,5 @@ package 'Constraints Example-2' {
 		}
 	}
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Dependency Example' using textual sysml v2 notation
+
+'''
+
 package 'Dependency Example' {
 	
 	part 'System Assembly' {
@@ -25,3 +29,5 @@ package 'Dependency Example' {
 		from 'System Assembly'::'Storage Subsystem' 
 		to 'Software Design'::MessageSchema, 'Software Design'::DataSchema;
 }
+
+'''

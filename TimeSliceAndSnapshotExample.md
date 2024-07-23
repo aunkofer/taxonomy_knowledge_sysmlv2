@@ -1,3 +1,7 @@
+# A SysML v2 'Time Slice and Snapshot Example'  using textual sysml v2 notation
+
+'''
+
 package 'Time Slice and Snapshot Example' {
 		
 	attribute def Date;
@@ -25,3 +29,5 @@ package 'Time Slice and Snapshot Example' {
 		snapshot junked = done;
 	}
 }
+
+'''

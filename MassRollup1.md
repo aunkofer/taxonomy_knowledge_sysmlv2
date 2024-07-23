@@ -1,3 +1,7 @@
+# A SysML v2 MassRollup1 Example using textual sysml v2 notation
+
+'''
+
 package MassRollup1 {
 	import NumericalFunctions::*;
 	
@@ -17,3 +21,5 @@ package MassRollup1 {
 	}
 	
 }
+
+'''

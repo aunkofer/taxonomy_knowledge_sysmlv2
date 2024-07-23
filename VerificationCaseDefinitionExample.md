@@ -1,3 +1,7 @@
+# A SysML v2 'Verification Case Definition Example' using textual sysml v2 notation
+
+'''
+
 package 'Verification Case Definition Example' {
 	
 	part def Vehicle {
@@ -42,3 +46,5 @@ package 'Verification Case Definition Example' {
 	}
 	
 }
+
+'''

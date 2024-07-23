@@ -1,3 +1,7 @@
+# A SysML v2 'Interface Decomposition Example' using textual sysml v2 notation
+
+'''
+
 package 'Interface Decomposition Example' {
 	
 	port def SpigotBank;
@@ -21,3 +25,5 @@ package 'Interface Decomposition Example' {
 	}
 	
 }
+
+'''

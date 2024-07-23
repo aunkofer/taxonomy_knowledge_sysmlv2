@@ -1,3 +1,7 @@
+# A SysML v2 'Items Example' using textual sysml v2 notation
+
+'''
+
 package 'Items Example' {
 	import ScalarValues::*;
 	
@@ -15,3 +19,5 @@ package 'Items Example' {
 	}
 	
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Individuals and Snapshots Example' using textual sysml v2 notation
+
+'''
+
 package 'Individuals and Snapshots Example' {
 	import 'Part Definition Example'::*;
 	
@@ -22,3 +26,5 @@ package 'Individuals and Snapshots Example' {
 		first vehicle_1_t0 then vehicle_1_t1;
 	}
 }
+
+'''

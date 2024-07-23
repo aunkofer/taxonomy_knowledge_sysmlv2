@@ -1,3 +1,7 @@
+# A SysML v2 'Enumeration Definitions' using textual sysml v2 notation
+
+'''
+
 package 'Enumeration Definitions-1' {
 	import ScalarValues::Real;
 	
@@ -15,3 +19,5 @@ package 'Enumeration Definitions-1' {
 		attribute redefines currentColor = TrafficLightColor::green;
 	}
 }
+
+'''

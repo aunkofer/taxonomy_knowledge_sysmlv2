@@ -1,3 +1,7 @@
+# A SysML v2 'Port Conjugation Example' using textual sysml v2 notation
+
+'''
+
 package 'Port Conjugation Example' {
 	
 	attribute def Temp;
@@ -18,3 +22,5 @@ package 'Port Conjugation Example' {
 		port engineFuelPort : ~FuelPort;
 	}
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Calculation Usages' Example using textual sysml v2 notation
+
+'''
+
 package 'Calculation Usages-1' {
 	import 'Calculation Definitions'::*;
 	
@@ -38,3 +42,5 @@ package 'Calculation Usages-1' {
 	} 
 	
 }
+
+'''

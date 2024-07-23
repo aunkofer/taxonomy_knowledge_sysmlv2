@@ -1,3 +1,7 @@
+# A SysML v2 'Action Shorthand Example' using textual sysml v2 notation
+
+'''
+
 package 'Action Shorthand Example' {
 	item def Scene;
 	item def Image;
@@ -24,3 +28,5 @@ package 'Action Shorthand Example' {
 	}
 	
 }
+
+'''

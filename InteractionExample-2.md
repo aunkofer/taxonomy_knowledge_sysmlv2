@@ -1,3 +1,7 @@
+# A SysML v2 'Interaction Example'  using textual sysml v2 notation
+
+'''
+
 package 'Interaction Example-2' {
 	import 'Event Occurrence Example'::*;
 	
@@ -32,3 +36,5 @@ package 'Interaction Example-2' {
 		message fuelCommandMessage of FuelCommand;
 	}
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Verification Case Usage Example' using textual sysml v2 notation
+
+'''
+
 package 'Verification Case Usage Example' {
 	import 'Verification Case Definition Example'::*;
 	
@@ -50,3 +54,5 @@ package 'Verification Case Usage Example' {
 		}
 	}
 }
+
+'''

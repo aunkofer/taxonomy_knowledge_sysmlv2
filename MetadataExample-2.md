@@ -1,3 +1,7 @@
+# A SysML v2 'Metadata Example' using textual sysml v2 notation
+
+'''
+
 package 'Metadata Example-2' {
 	
 	action computeDynamics {
@@ -18,3 +22,5 @@ package 'Metadata Example-2' {
 	}
 	
 }
+
+'''

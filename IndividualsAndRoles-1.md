@@ -1,3 +1,7 @@
+# A SysML v2 'Individuals and Roles' Example using textual sysml v2 notation
+
+'''
+
 package 'Individuals and Roles' {
 	import 'Part Definition Example'::*;
 	
@@ -20,3 +24,5 @@ package 'Individuals and Roles' {
 		}
 	}
 }
+
+'''

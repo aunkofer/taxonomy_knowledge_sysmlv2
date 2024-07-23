@@ -1,3 +1,7 @@
+# A SysML v2 'Requirement Groups' Example using textual sysml v2 notation
+
+'''
+
 package 'Requirement Groups' {
 	import 'Requirement Definitions'::*;
 	import 'Requirement Usages'::*;
@@ -31,3 +35,5 @@ package 'Requirement Groups' {
 	}
 	
 }
+
+'''

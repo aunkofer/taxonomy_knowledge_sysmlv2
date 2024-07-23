@@ -1,3 +1,7 @@
+# A SysML v2 'State Definition Example' using textual sysml v2 notation
+
+'''
+
 package 'State Definition Example-2' {
 	
 	attribute def VehicleStartSignal;
@@ -21,3 +25,5 @@ package 'State Definition Example-2' {
 	}
 	
 }
+
+'''

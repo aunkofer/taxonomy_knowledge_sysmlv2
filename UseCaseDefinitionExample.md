@@ -1,3 +1,7 @@
+# A SysML v2 'Use Case Definition Example' using textual sysml v2 notation
+
+'''
+
 package 'Use Case Definition Example' {
 	
 	part def Vehicle;
@@ -32,3 +36,5 @@ package 'Use Case Definition Example' {
 		actor passengers : Person[0..4];
 	}
 }
+
+'''

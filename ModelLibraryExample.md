@@ -1,3 +1,7 @@
+# A SysML v2 'Model Library Example' using textual sysml v2 notation
+
+'''
+
 library package 'Model Library Example' {
 	import ScalarValues::Real;
 	import RiskMetadata::Level;
@@ -33,3 +37,5 @@ library package 'Model Library Example' {
 	
 	item scenarios : Scenario[*] nonunique;
 }
+
+'''

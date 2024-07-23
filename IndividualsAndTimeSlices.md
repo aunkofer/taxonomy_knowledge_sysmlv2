@@ -1,3 +1,7 @@
+# A SysML v2 'Individuals and Time Slices' Example using textual sysml v2 notation
+
+'''
+
 package 'Individuals and Time Slices' {
 	import 'Individuals and Snapshots Example'::*;
 	
@@ -24,3 +28,5 @@ package 'Individuals and Time Slices' {
 		
 	}
 }
+
+'''

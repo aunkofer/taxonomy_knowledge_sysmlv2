@@ -1,3 +1,7 @@
+# A SysML v2 'Port Example' using textual sysml v2 notation
+
+'''
+
 package 'Port Example' {
 	
 	attribute def Temp;
@@ -24,3 +28,5 @@ package 'Port Example' {
 		port engineFuelPort : FuelInPort;
 	}
 }
+
+'''

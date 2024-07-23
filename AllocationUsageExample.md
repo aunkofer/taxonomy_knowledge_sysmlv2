@@ -1,3 +1,7 @@
+# A SysML v2 'Allocation Usage Example' using textual sysml v2 notation
+
+'''
+
 package 'Allocation Usage Example' {
 	package LogicalModel {
 		action def ProvidePower;
@@ -32,3 +36,5 @@ package 'Allocation Usage Example' {
 	}
 	
 }
+
+'''

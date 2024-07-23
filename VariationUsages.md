@@ -1,3 +1,7 @@
+# A SysML v2 'Variation Usages' Example using textual sysml v2 notation
+
+'''
+
 package 'Variation Usages' {
 	import 'Variation Definitions'::*;
 	
@@ -23,3 +27,6 @@ package 'Variation Usages' {
 	}
 	
 }
+
+'''
+

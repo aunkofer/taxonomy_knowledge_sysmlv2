@@ -1,3 +1,7 @@
+# A SysML v2 'State Decomposition' Example using textual sysml v2 notation
+
+'''
+
 package 'State Decomposition-1' {
 	
 	attribute def VehicleStartSignal;
@@ -30,3 +34,5 @@ package 'State Decomposition-1' {
 	}
 	
 }
+
+'''

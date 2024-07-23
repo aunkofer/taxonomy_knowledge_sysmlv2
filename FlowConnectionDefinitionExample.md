@@ -1,3 +1,7 @@
+# A SysML v2 'Flow Connection Definition Example' using textual sysml v2 notation
+
+'''
+
 package 'Flow Connection Definition Example' {
 	import 'Port Example'::*;
 	
@@ -19,3 +23,5 @@ package 'Flow Connection Definition Example' {
 			
 	} 
 }
+
+'''

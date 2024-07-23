@@ -1,16 +1,18 @@
-# A SysML v2 'Action Decomposition' Example using textual sysml v2 notation
+# A SysML v2 'Conditional Succession Example' using textual sysml v2 notation
 
 '''
 
-package 'Action Decomposition' {
+package 'Conditional Succession Example-2' {
 	part def Scene;
-	part def Image;
+	part def Image {
+		isWellFocused: ScalarValues::Boolean;
+	}
 	part def Picture;
 	
 	action def Focus { in scene : Scene; out image : Image; }
 	action def Shoot { in image: Image; out picture : Picture; }	
 	action def TakePicture { in scene : Scene; out picture : Picture; }
-		
+	
 	action takePicture : TakePicture {
 		in item scene;
 		out item picture;
@@ -20,10 +22,12 @@ package 'Action Decomposition' {
 			out item image;
 		}
 		
+		if focus.image.isWellFocused then shoot;
+		
 		flow from focus.image to shoot.image;
 
 		action shoot : Shoot {
-			in item; 
+			in item image; 
 			out item picture = takePicture::picture;
 		}
 	}

@@ -1,3 +1,7 @@
+# A SysML v2 'Event Occurrence Example' using textual sysml v2 notation
+
+'''
+
 package 'Event Occurrence Example' {	
 	part def Driver;
 	part def CruiseController;
@@ -27,3 +31,5 @@ package 'Event Occurrence Example' {
 	
 	}
 }
+
+'''

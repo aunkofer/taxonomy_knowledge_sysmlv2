@@ -1,5 +1,6 @@
-# Comment Example
+# A SysML v2 'Comment' Example using textual sysml v2 notation
 
+'''
 package 'Comment Example' {
 	/* This is a comment, which is a part of the model, 
 	 * annotating (by default) it's owning namespace. */
@@ -24,3 +25,4 @@ package 'Comment Example' {
 	// of the model.
 	alias Torque for ISQ::TorqueValue;
 }
+'''

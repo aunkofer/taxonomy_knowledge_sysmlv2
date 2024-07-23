@@ -1,3 +1,7 @@
+# A SysML v2 'Change and Time Triggers' Example using textual sysml v2 notation
+
+'''
+
 package 'Change and Time Triggers' {
 	import ISQ::TemperatureValue;
 	import ISQ::DurationValue;
@@ -41,3 +45,5 @@ package 'Change and Time Triggers' {
 			then normal;
 	}
 }
+
+'''

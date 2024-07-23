@@ -1,3 +1,7 @@
+# A SysML v2 'Subsetting Example' using textual sysml v2 notation
+
+'''
+
 package 'Subsetting Example' {
 	
 	part def Vehicle {
@@ -13,3 +17,5 @@ package 'Subsetting Example' {
 	part def Transmission :> VehiclePart;
 	part def Wheel :> VehiclePart;
 }
+
+'''

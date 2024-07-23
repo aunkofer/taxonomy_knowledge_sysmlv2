@@ -1,3 +1,7 @@
+# A SysML v2 'Requirement Usages' Example using textual sysml v2 notation
+
+'''
+
 package 'Requirement Usages' {
 	import SI::*;
 	import 'Requirement Definitions'::*;
@@ -23,3 +27,5 @@ package 'Requirement Usages' {
 	}
 	
 }
+
+'''

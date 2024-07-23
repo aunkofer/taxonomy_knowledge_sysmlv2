@@ -1,3 +1,7 @@
+# A SysML v2 'State Exhibition Example' using textual sysml v2 notation
+
+'''
+
 package 'State Exhibition Example' {
 	import 'Transition Actions'::*;
 	
@@ -13,3 +17,5 @@ package 'State Exhibition Example' {
 	}
 	
 }
+
+'''

@@ -1,5 +1,6 @@
-# Documentation Example
+# A SysML v2 'documentation' example using textual sysml v2 notation
 
+'''
 package 'Documentation Example' {
 	doc /* This is documentation of the owning 
 	     * package.
@@ -14,3 +15,4 @@ package 'Documentation Example' {
 	}
 	alias Torque for ISQ::TorqueValue;
 }
+'''

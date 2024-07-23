@@ -1,3 +1,7 @@
+# A SysML v2 'Action Succession Example' using textual sysml v2 notation
+
+'''
+
 package 'Action Succession Example-1' {
 	item def Scene;
 	item def Image;
@@ -24,3 +28,5 @@ package 'Action Succession Example-1' {
 	}
 	
 }
+
+'''

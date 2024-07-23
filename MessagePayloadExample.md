@@ -1,3 +1,7 @@
+# A SysML v2 'Message Payload Example'  using textual sysml v2 notation
+
+'''
+
 package 'Message Payload Example' {
 	import 'Event Occurrence Example'::*;
 	
@@ -34,3 +38,5 @@ package 'Message Payload Example' {
 		
 	}
 }
+
+'''

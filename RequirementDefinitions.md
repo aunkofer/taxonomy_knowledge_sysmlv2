@@ -1,3 +1,7 @@
+# A SysML v2 'Requirement Definitions' Example using textual sysml v2 notation
+
+'''
+
 package 'Requirement Definitions' {
 	import ISQ::*;
 	import SI::*;
@@ -40,3 +44,5 @@ package 'Requirement Definitions' {
 		subject generateTorque: GenerateTorque;
 	}
 }
+
+'''

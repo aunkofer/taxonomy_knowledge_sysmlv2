@@ -1,3 +1,7 @@
+# A SysML v2 'Variation Definitions' Example using textual sysml v2 notation
+
+'''
+
 package 'Variation Definitions' {
 	import ScalarValues::Real;
 	import SI::mm;
@@ -33,3 +37,5 @@ package 'Variation Definitions' {
 	}	
 
 }
+
+'''

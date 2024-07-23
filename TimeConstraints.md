@@ -1,3 +1,7 @@
+# A SysML v2 'Time Constraints' Example using textual sysml v2 notation
+
+'''
+
 package 'Time Constraints' {
 	import ISQ::TemperatureValue;
 	import ISQ::DurationValue;
@@ -35,3 +39,5 @@ package 'Time Constraints' {
 		constraint { DurationOf(maintenance) <= 48 [h] }
 	}
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Filtering Example' using textual sysml v2 notation
+
+'''
+
 package 'Filtering Example-2' {
 	import ScalarValues::Boolean;
 	
@@ -33,3 +37,5 @@ package 'Filtering Example-2' {
 		import vehicle::**[@Safety and Safety::isMandatory];
 	}
 }
+
+'''

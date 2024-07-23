@@ -1,3 +1,7 @@
+# A SysML v2 'Analysis Case Definition Example' using textual sysml v2 notation
+
+'''
+
 package 'Analysis Case Definition Example' {
 	import 'Calculation Definitions'::*;
 	import 'Analytical Constraints'::*;
@@ -83,3 +87,5 @@ package 'Analysis Case Definition Example' {
         return fuelEconomyResult : DistancePerVolumeValue = solveForFuelConsumption.fuelEconomy;
 	}
 }
+
+'''

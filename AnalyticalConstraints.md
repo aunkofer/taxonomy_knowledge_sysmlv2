@@ -1,3 +1,7 @@
+# A SysML v2 'Analytical Constraints' Example using textual sysml v2 notation
+
+'''
+
 package 'Analytical Constraints' {
 	import 'Calculation Definitions'::*;
 	
@@ -40,3 +44,5 @@ package 'Analytical Constraints' {
 	    }
 	}
 }
+
+'''

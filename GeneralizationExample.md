@@ -1,3 +1,7 @@
+# A SysML v2 Generalization Example using textual sysml v2 notation
+
+'''
+
 package 'Generalization Example' {
 
 	abstract part def Vehicle;
@@ -17,3 +21,5 @@ package 'Generalization Example' {
 	part def Person;
 	
 }
+
+'''

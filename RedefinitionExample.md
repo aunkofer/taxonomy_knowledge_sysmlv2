@@ -1,3 +1,7 @@
+# A SysML v2 Redefinition Example using textual sysml v2 notation
+
+'''
+
 package 'Redefinition Example' {
 
 	part def Vehicle {
@@ -22,3 +26,5 @@ package 'Redefinition Example' {
 
 	part def Cylinder;
 }
+
+'''

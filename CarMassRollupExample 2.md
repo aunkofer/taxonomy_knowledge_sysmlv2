@@ -1,3 +1,7 @@
+# A SysML v2 'Car Mass Rollup' Example using textual sysml v2 notation
+
+'''
+
 package 'Car Mass Rollup 1' {
 	import ScalarValues::*;
 	import MassRollup2::*;
@@ -36,3 +40,5 @@ package 'Car Mass Rollup 1' {
 	
 	// c::totalMass --> 1150.0[kg]
 }
+
+'''

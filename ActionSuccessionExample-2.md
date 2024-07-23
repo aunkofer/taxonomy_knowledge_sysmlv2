@@ -1,3 +1,7 @@
+# A SysML v2 'Action Definition Example' using textual sysml v2 notation
+
+'''
+
 package 'Action Definition Example' {
 	item def Scene;
 	item def Image;
@@ -22,3 +26,5 @@ package 'Action Definition Example' {
 	}
 	
 }
+
+'''

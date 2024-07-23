@@ -1,3 +1,7 @@
+# A SysML v2 'Connections Example' using textual sysml v2 notation
+
+'''
+
 package 'Connections Example' {
 	
 	part def WheelHubAssembly;
@@ -40,3 +44,5 @@ package 'Connections Example' {
 	}
 	
 }
+
+'''

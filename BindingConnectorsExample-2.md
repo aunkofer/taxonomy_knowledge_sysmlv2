@@ -1,3 +1,7 @@
+# A SysML v2 'Binding Connectors Example' using textual sysml v2 notation
+
+'''
+
 package 'Binding Connectors Example-2' {
 	import 'Port Example'::*;
 	
@@ -24,3 +28,5 @@ package 'Binding Connectors Example-2' {
 		}
 	} 
 }
+
+'''

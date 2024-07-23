@@ -1,3 +1,7 @@
+# A SysML v2 'Semantic Metadata Example' using textual sysml v2 notation
+
+'''
+
 library package 'Semantic Metadata Example' {
 	import 'Model Library Example'::*;
 	import Metaobjects::SemanticMetadata;
@@ -23,3 +27,5 @@ library package 'Semantic Metadata Example' {
 	}
 	
 }
+
+'''

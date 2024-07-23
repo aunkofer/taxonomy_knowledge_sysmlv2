@@ -1,3 +1,7 @@
+# A SysML v2 'Metadata Example' using textual sysml v2 notation
+
+'''
+
 package 'Metadata Example-1' {
 	
 	metadata def SafetyFeature;
@@ -30,3 +34,5 @@ package 'Metadata Example-1' {
 	}
 	
 }
+
+'''

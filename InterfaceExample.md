@@ -1,3 +1,7 @@
+# A SysML v2 'Interface Example' using textual sysml v2 notation
+
+'''
+
 package 'Interface Example' {
 	import 'Port Example'::*;
 	
@@ -17,3 +21,5 @@ package 'Interface Example' {
 			consumerPort ::> eng.engineFuelPort;
 	} 
 }
+
+'''

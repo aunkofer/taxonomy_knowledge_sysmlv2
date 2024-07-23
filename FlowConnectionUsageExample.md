@@ -1,3 +1,7 @@
+# A SysML v2 'Flow Connection Interface Example' using textual sysml v2 notation
+
+'''
+
 package 'Flow Connection Interface Example' {
 	import 'Port Example'::*;
 	
@@ -16,3 +20,5 @@ package 'Flow Connection Interface Example' {
 			to tankAssy.fuelTankPort.fuelReturn;
 	} 
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Analysis Case Usage Example'  using textual sysml v2 notation
+
+'''
+
 package 'Analysis Case Usage Example' {
 	import 'Analysis Case Definition Example'::*;
 	
@@ -31,3 +35,5 @@ package 'Analysis Case Usage Example' {
 	}
 
 }
+
+'''

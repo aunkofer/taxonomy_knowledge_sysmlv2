@@ -1,3 +1,7 @@
+# A SysML v2 'Interaction Example' using textual sysml v2 notation
+
+'''
+
 package 'Interaction Example-1' {
 	import 'Event Occurrence Example'::*;
 	
@@ -21,3 +25,5 @@ package 'Interaction Example-1' {
 		first setSpeedMessage then sensedSpeedMessage;
 	}
 }
+
+'''

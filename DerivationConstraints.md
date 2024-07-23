@@ -1,3 +1,7 @@
+# A SysML v2 'Derivation Constraints' Example using textual sysml v2 notation
+
+'''
+
 package 'Derivation Constraints' {
 	import 'Constraints Example-1'::*;
 	
@@ -22,3 +26,5 @@ package 'Derivation Constraints' {
 	}
 	
 }
+
+'''

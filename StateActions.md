@@ -1,3 +1,7 @@
+# A SysML v2 'State Actions' Example using textual sysml v2 notation
+
+'''
+
 package 'State Actions' {
 	
 	attribute def VehicleStartSignal;
@@ -33,3 +37,5 @@ package 'State Actions' {
 	}
 	
 }
+
+'''

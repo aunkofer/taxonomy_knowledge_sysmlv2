@@ -1,3 +1,7 @@
+# A SysML v2 'Local Clock Example' using textual sysml v2 notation
+
+'''
+
 package 'Local Clock Example' {
 	import ScalarValues::String;
 	
@@ -30,3 +34,5 @@ package 'Local Clock Example' {
 		}
 	}
 }
+
+'''

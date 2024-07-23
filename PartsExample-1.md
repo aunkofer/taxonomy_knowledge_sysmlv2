@@ -1,3 +1,7 @@
+# A SysML v2 'Parts Example' using textual sysml v2 notation
+
+'''
+
 package 'Parts Example-1' {
 	
 	// Definitions
@@ -27,3 +31,5 @@ package 'Parts Example-1' {
 	}
 	
 }
+
+'''

@@ -1,3 +1,7 @@
+# A SysML v2 'Interaction Realization' example using textual sysml v2 notation
+
+'''
+
 package 'Interaction Realization-1' {
 	import 'Interaction Example-1'::*;
 	
@@ -53,3 +57,5 @@ package 'Interaction Realization-1' {
 		message :>> fuelCommandMessage = vehicle_a.cruiseController_a.controllerBehavior.sendFuelCommand.sentMessage;
 	}
 }
+
+'''

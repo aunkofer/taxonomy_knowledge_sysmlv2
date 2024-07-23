@@ -1,3 +1,7 @@
+# A SysML v2 'Requirement Satisfaction' Example using textual sysml v2 notation
+
+'''
+
 package 'Requirement Satisfaction' {
 	import 'Requirement Groups'::*;
 	
@@ -24,3 +28,6 @@ package 'Requirement Satisfaction' {
 	}
 	
 }
+
+'''
+

@@ -1,3 +1,7 @@
+# A SysML v2 'Calculation Definitions' Example using textual sysml v2 notation
+
+'''
+
 package 'Calculation Definitions' {
 	import ScalarValues::Real;
 	import ISQ::*;
@@ -21,3 +25,5 @@ package 'Calculation Definitions' {
 		return : LengthValue = x0 + v * dt;
 	}
 }
+
+'''

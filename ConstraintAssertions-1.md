@@ -1,3 +1,7 @@
+# A SysML v2 'Constraint Assertions'Constraint Assertions-1' Example using textual sysml v2 notation
+
+'''
+
 package 'Constraint Assertions-1' {
 	import ISQ::*;
 	import SI::*;
@@ -30,3 +34,5 @@ package 'Constraint Assertions-1' {
 		}
 	}	
 }
+
+'''
